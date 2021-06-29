@@ -1,1 +1,1 @@
-# Projeto funcionando corretamente. 💾 
+# Projeto funcionando corretamente. 💾   
